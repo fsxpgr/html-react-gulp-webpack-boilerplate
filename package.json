@@ -1,0 +1,27 @@
+{
+  "name": "html-react-gulp-webpack-boilerplate",
+  "version": "1.0.0",
+  "description": "html-react-gulp-webpack-boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fsxpgr/html-react-gulp-webpack-boilerplate.git"
+  },
+  "keywords": [
+    "react",
+    "gulp",
+    "webpack",
+    "starter",
+    "html",
+    "noserver"
+  ],
+  "author": "Oleksii Boiko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fsxpgr/html-react-gulp-webpack-boilerplate/issues"
+  },
+  "homepage": "https://github.com/fsxpgr/html-react-gulp-webpack-boilerplate#readme"
+}
